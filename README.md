@@ -1,2 +1,2 @@
-# eecs-1710 lab 2
-this is repo for eecs1710 Lab 2 
+# eecs-1710 All exercises
+All exercises are in this folder
